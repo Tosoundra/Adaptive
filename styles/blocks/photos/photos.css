@@ -1,0 +1,9 @@
+@import url(__grid/photo__grid.css);
+@import url(__picture/grid__picture.css);
+
+
+.photos {
+    max-width: fit-content;
+    margin: 0 auto 92px;
+    padding: 0 48px;
+}

@@ -1,0 +1,16 @@
+.cover__link {
+    height: 100%;
+    background-image: url(../../../../images/__background.jpg);
+    background-size: auto;
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.cover__link:hover .overlay {
+   opacity: .8;
+}
