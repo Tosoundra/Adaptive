@@ -1,3 +1,5 @@
+
+
 /* Blocks */
 @import url(blocks/page/page.css);
 @import url(blocks/section/section.css);
@@ -18,3 +20,7 @@
 
 /* Fonts */
 @import url(vendor/fonts.css);
+* {
+    margin: 0;
+    padding: 0;
+}

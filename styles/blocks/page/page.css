@@ -12,3 +12,10 @@
         width: 1024px;
     }
 }
+
+@media screen and (min-height:320px) {
+    .page {
+        width: 320px;
+    }
+    
+}

@@ -3,3 +3,9 @@
         width: 928px;
     }
 }
+@media screen and (min-height: 320px) {
+    .lead__picture {
+        width: 100%;
+    }
+    
+}
